@@ -1,2 +1,8 @@
 # Instgram-Bot
-İnstgarma
+
+-BEĞENİ YAPMA
+-YORUM YAPMA
+-TAKİP ETTİRME
+-ÇOKLU HESAPTAN TAKİP ETTİRME
+
+
